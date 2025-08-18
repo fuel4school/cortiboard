@@ -1,1 +1,1 @@
-# Web Frontend
+# CortiBoard Web Frontend
